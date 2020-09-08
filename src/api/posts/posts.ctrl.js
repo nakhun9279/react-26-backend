@@ -208,4 +208,5 @@ export const update = async ctx => {
   } catch (e) {
     ctx.throw(500, e);
   }
-};
+};//수정
+
